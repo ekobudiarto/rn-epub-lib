@@ -30,9 +30,12 @@ android {
 repositories {
     mavenCentral()
     google()
+    jcenter()
+    maven { url "https://jitpack.io" }
 }
 
 dependencies {
     compile 'com.facebook.react:react-native:+'
+    implementation "com.folioreader:folioreader:0.5.4"
 }
   
