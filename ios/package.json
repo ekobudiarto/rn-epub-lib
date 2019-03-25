@@ -1,0 +1,11 @@
+{
+  "name": "react-native-e-pub-lib",
+  "version": "1.0.0",
+  "private": true,
+  "scripts": {
+    "start": "yarn react-native start"
+  },
+  "dependencies": {
+    "react-native": "^0.59.1"
+  }
+}
